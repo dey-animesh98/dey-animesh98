@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
-- 🌱 I’m currently learning **Data Structure & Algorithms in JavaScript**
+- 🌱 I’m currently learning **Data Structure & Algorithms using JavaScript**
 
 - 💬 Ask me about **MERN, JavaScript, DevOps**
 
@@ -12,8 +12,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/animesh dey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="animesh dey" height="30" width="40" /></a>
-<a href="https://instagram.com/anidey98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anidey98" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/animesh-dey-backend-devloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="animesh dey" height="30" width="40" /></a>
+<a href="https://instagram.com/a_n_i__9__8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anidey98" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/dey-animesh98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dey-animesh98" height="30" width="40" /></a>
 </p>
 
