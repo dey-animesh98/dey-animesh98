@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Data Structure & Algorithms in JavaScript**
 
-- 💬 Ask me about **MERN, JavaScript, React JS**
+- 💬 Ask me about **MERN, JavaScript, DevOps**
 
 - 📫 How to reach me **animesh.dey986@gmail.com**
 
