@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Animesh Dey</h1>
 <h3 align="center">A passionate Web developer from India</h3>
+<img alt='coding gif' src='https://tenor.com/view/coding-gif-24297652'/>
 
 - 🌱 I’m currently learning **Data Structure & Algorithms in JavaScript**
 
